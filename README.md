@@ -20,4 +20,4 @@ A Spring Boot based API with basic CRUD operations using MongoDB
 
 ## Developer
  
-[@abd612](https://about.me/abd612)
+[@abd612](https://github.com/abd612)
